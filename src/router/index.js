@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import HomeView from '../views/HomeView.vue';
 import ContactDetailView from '../views/ContactDetailView.vue';
+
 import ContactFormView from '../views/ContactFormView.vue';
 
 const routes = [
